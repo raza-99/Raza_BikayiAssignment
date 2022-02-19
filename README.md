@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+Bikayi  Frontend Assignment
+R.Mohammed Raza
+VIT University
+18CE7003
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
